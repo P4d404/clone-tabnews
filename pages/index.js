@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Barril!</h1>;
+  return <h1>Barriu!</h1>;
 }
 
 export default Home;
